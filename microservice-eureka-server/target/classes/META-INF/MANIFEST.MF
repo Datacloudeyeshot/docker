@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: microservice-eureka-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Lenovo
+Implementation-Vendor-Id: com.itheima
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/microservice
+ -mallmanagement/microservice-eureka-server/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
